@@ -1,0 +1,19 @@
+{
+  "name": "accountsharing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "accounts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max.#0069",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "discord-rich-presence": "0.0.8",
+    "discord.js": "^12.2.0",
+    "fs": "0.0.1-security",
+    "mineflayer": "^2.23.0",
+    "readline-sync": "^1.4.10"
+  }
+}
