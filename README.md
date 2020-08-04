@@ -27,9 +27,11 @@
 ## How to run the bot 
 
 
-##### Method
-###### 1 Local Machine
-###### 2 Glitch
+#### Method
+##### 1 Local Machine
+##### 2 Glitch
 
-* 1 Pick 1 method 
-* 2 Find How to use that method [Here](https://github.com/MoonLGH/Mineflayer-DiscordJS-Template/tree/master/Bot%20Tutorial)
+### Tutorial
+
+* Pick 1 method 
+* Find How to use that method [Here](https://github.com/MoonLGH/Mineflayer-DiscordJS-Template/tree/master/Bot%20Tutorial)
